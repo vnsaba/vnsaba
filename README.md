@@ -8,7 +8,7 @@
 const vanesa = {
   location: "Manizales, Colombia 🇨🇴",
   role: "Full-Stack Software Developer",
-  education: "Systems Engineering — Universidad de Caldas (8th semester)",
+  education: "Systems Engineering & Computer Science",
   currentlyLearning: ["Google Cloud", "Application Security"],
   askMeAbout: ["React", "Angular", "Spring Boot", "NestJS", "Databases"],
   funFact: "I turn coffee into code ☕️ ➡️ 💻",
@@ -20,9 +20,9 @@ const vanesa = {
 
 ## 👩‍💻 About Me
 
-8th-semester Systems Engineering student at **Universidad de Caldas**, passionate about software development. I'm responsible, organized, and proactive — always focused on continuous learning.
+Software developer studying **Systems Engineering & Computer Science**, passionate about building scalable and well-crafted applications. Responsible, organized, and proactive — always focused on continuous learning.
 
-Looking for a **junior developer opportunity** where I can apply my skills, keep growing, and contribute to a great team.
+Looking for a **junior developer opportunity** to apply my skills, keep growing, and contribute to a great development team.
 
 📧 vanesa07alzate@gmail.com · 📱 +57 320 241 8900 · 📍 Manizales, Caldas
 
@@ -74,10 +74,3 @@ Looking for a **junior developer opportunity** where I can apply my skills, keep
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Vanesa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
