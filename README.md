@@ -24,8 +24,6 @@ Software developer studying **Systems Engineering & Computer Science**, passiona
 
 Looking for a **junior developer opportunity** to apply my skills, keep growing, and contribute to a great development team.
 
-📧 vanesa07alzate@gmail.com · 📱 +57 320 241 8900 · 📍 Manizales, Caldas
-
 ---
 
 ## 🚀 What I'm up to
@@ -73,4 +71,3 @@ Looking for a **junior developer opportunity** to apply my skills, keep growing,
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
