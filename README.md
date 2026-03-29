@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Vanesa Buitrago Alzate 👋
 
-<!--
-**vnsaba/vnsaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Software Developer** · Java · TypeScript · React · Angular
 
-Here are some ideas to get you started:
+I'm a passionate full-stack developer who loves building clean, scalable applications — from database design to polished UIs. Currently working on interesting full-stack projects, studying **Google Cloud**, and sharpening skills in **application security**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🚀 What I'm up to
+
+- 🔨 Building full-stack web applications (Spring Boot + React/Angular)
+- ☁️ Studying Google Cloud Platform
+- 🔐 Learning application security practices
+- 🤝 Open to exciting collaborations and new projects
+
+## 💡 What I can offer
+
+- End-to-end feature development (UI → API → database)
+- REST API design and third-party integrations
+- Database modeling and query optimization
+- Containerized deployments with Docker
+
+## 🛠️ Tech Stack
+
+**Frontend**
+Angular · React · TypeScript · JavaScript · HTML5 · CSS · Tailwind CSS
+
+**Backend**
+Spring Boot · Node.js · Nest.js
+
+**Languages**
+Java · TypeScript · Python
+
+**Databases**
+MySQL · Oracle · PostgreSQL · PL/SQL · MongoDB
+
+**Tools**
+Docker · GitHub · VS Code
